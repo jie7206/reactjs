@@ -70,4 +70,7 @@ group :development do
 end
 
 # Add Gems
-gem 'bootstrap', '~> 4.0.0alpha3.1'
+gem 'bootstrap', '~> 4.2.1'
+gem 'jquery-rails'
+gem 'webpacker'
+gem 'react-rails'
